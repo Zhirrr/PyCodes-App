@@ -22,7 +22,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Zhirrr/PyCodes-App/main/Splash.png?token=ASA57N5M3VW66SJNZCSDF6LAKRMIA"/>
 <img src="https://raw.githubusercontent.com/Zhirrr/PyCodes-App/main/Screenshoot.png?token=ASA57NYCFQLQOLJTPLJXR43AKRMKW"/>
-<img src="https://raw.githubusercontent.com/Zhirrr/PyCodes-App/Screenshot dua.png"/>
+<img src="https://raw.githubusercontent.com/Zhirrr/PyCodes-App/main/Screenshot%20dua.png?token=ASA57NZQDUZE7GVAS7DEC4TAKRMNS"/>
 </p>
 
 Ini adalah app pertama saya yang saya share di repository saya, ini adalah app PyCodes, app ini menyimpan semua Codes Python3 yang saya buat sendiri dan saya buat menjadi apk
