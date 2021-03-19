@@ -20,7 +20,7 @@
 
 ### Screenshoot
 <p align="center">
-<img src="https://raw.githubusercontent.com/Zhirrr/PyCodes-App/Splash.png"/>
+<img src="https://raw.githubusercontent.com/Zhirrr/PyCodes-App/main/Splash.png?token=ASA57N5M3VW66SJNZCSDF6LAKRMIA"/>
 <img src="https://raw.githubusercontent.com/Zhirrr/PyCodes-App/Screenshot.png"/>
 <img src="https://raw.githubusercontent.com/Zhirrr/PyCodes-App/Screenshot dua.png"/>
 </p>
