@@ -1,0 +1,9 @@
+/storage/emulated/0/.sketchware/mysc/650/gen/com/zhirrrstudio/pycodes/R.java \
+/storage/emulated/0/.sketchware/mysc/650/gen/androidx/appcompat/R.java \
+/storage/emulated/0/.sketchware/mysc/650/gen/androidx/core/R.java \
+/storage/emulated/0/.sketchware/mysc/650/gen/androidx/appcompat/resources/R.java \
+/storage/emulated/0/.sketchware/mysc/650/gen/androidx/coordinatorlayout/R.java \
+/storage/emulated/0/.sketchware/mysc/650/gen/com/google/android/material/R.java \
+/storage/emulated/0/.sketchware/mysc/650/gen/androidx/transition/R.java \
+/storage/emulated/0/.sketchware/mysc/650/gen/androidx/cardview/R.java \
+/storage/emulated/0/.sketchware/mysc/650/gen/androidx/recyclerview/R.java \
