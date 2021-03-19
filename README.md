@@ -29,6 +29,9 @@ Ini adalah app pertama saya yang saya share di repository saya, ini adalah app P
 
 Untuk Code nya sendiri masih sangat sedikit, jika kalian berminat menambahkan Codes kalian kedalam app ini Silahkan, jika tidak mau gak apa apa, karena ini adalah project Open Source Application
 
+### Download Link
+https://file.io/3DpdRD4i3cuV
+
 
 ### LICENSE
 This Repository Created By Me, If You Want Recode This App, Contact Me !
